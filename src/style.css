@@ -1,1 +1,11 @@
-/* styles go here */
+.groupedInfo:not(:first-child) {
+  margin-top: 20px;
+}
+
+.form-field:not(:last-child) {
+  margin: 0 0 10px;
+}
+
+.btn {
+  margin-top: 20px;
+}
